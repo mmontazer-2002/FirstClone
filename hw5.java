@@ -10,5 +10,6 @@ public class hw5 {
         System.out.print("Second String : ");
         String request= s.nextLine();
         System.out.println("Output : " + main.contains(request));
+        //hiiii
     }
 }

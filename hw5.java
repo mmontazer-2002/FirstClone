@@ -11,6 +11,10 @@ public class hw5 {
         String request= s.nextLine();
         System.out.println("Output : " + main.contains(request));
         //hiiii
+
         //let me check
+
+        //bye
+
     }
 }
